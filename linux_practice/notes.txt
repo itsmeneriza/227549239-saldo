@@ -1,0 +1,4 @@
+notes.txt
+Hello, Linux!
+This is a practical exam
+Hello, Linux!
