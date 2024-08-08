@@ -22,3 +22,56 @@
    22  ls
    23  git switch finalexam
    24  history > exam_log.txt
+   25  history exam_log.txy
+   26  histoty exam_log.txt
+   27  history exam_log.txt
+   28  git add exam_log.txt
+   29  git commit -m "Added exam_log.txt with command history"
+   30  git push origin finalexam
+   31  git checkout finalexam
+   32  git push -u origin finalexam
+   33  git push
+   34  git push --set-upstream origin finalexam
+   35  git push -u origin finalexam
+   36  ls -al ~/.ssh
+   37  eval "$(ssh-agent -s)"
+   38  ssh-add ~/.ssh/id_rsa
+   39  sh-add /.ssh/id_rsa/root/.ssh/id_rsa
+   40  git push origin -u finalexam
+   41  clear
+   42  git push
+   43  push.autoSetupRemote
+   44  git help config
+   45  clear
+   46  git push origin final exam
+   47  git push origin finalexam
+   48  git push origin final exam
+   49  git push origin finalexam
+   50  clear
+   51  git push origin finalexam
+   52  ssh-add ~/.ssh/id_rsa
+   53  ssh-add .ssh/id-rsa
+   54  clear
+   55  git remote -v
+   56  git status
+   57  ls
+   58  git add exam_log.txt
+   59  git commit -m "Added exam_log.txt with command history"
+   60  git add.
+   61  clear
+   62  git add .
+   63  git commit -m "Added exam_log.txt with command history"
+   64  git config --global user.name
+   65  git push origin finalexam
+   66  gh repo clone https://github.com/itsmeneriza/227549239-saldo
+   67  gh auth login
+   68  git push origin finalexam
+   69  git checkout -b finalexam
+   70  git switch finalexam
+   71  history exam_log.txt
+   72  history > exam_log.txy
+   73  git add exam_log.txt
+   74  git commit -m "Added exam_log.txt with command history"
+   75  istory > exam_log.txt
+   76  History > exam_log.txt
+   77  history > exam_log.txt
