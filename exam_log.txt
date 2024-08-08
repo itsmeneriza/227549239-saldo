@@ -1,0 +1,24 @@
+    1  ls
+    2  nano exam_log.txt
+    3  cd linux_practice
+    4  ls
+    5  notes.txt
+    6  echo "notes.txt"
+    7  ls
+    8  echo "notes.txt">> notes.txt
+    9  echo notes.txt
+   10  nano notes.txt
+   11  ls
+   12  cd ..
+   13  ls
+   14  nano exam_log.txt
+   15  cat exam_log.txt
+   16  nano exam_log.txt
+   17  git branch
+   18  git branch finalexam
+   19  git checkout -b finalexam
+   20  git checkout
+   21  git branch
+   22  ls
+   23  git switch finalexam
+   24  history > exam_log.txt
